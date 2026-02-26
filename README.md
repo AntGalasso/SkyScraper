@@ -1,11 +1,10 @@
 Skyscraper Problem
-📌 Overview
 
 The Skyscraper Problem is a logic-based constraint satisfaction puzzle in which the goal is to determine the height of buildings in a grid-based city while respecting a set of visibility constraints. Each cell represents a skyscraper, and its height must be unique within its row and column. Clues placed around the grid indicate how many skyscrapers are visible from a specific direction, considering that taller buildings block the view of shorter ones behind them.
 
 This project provides an algorithmic solution to the Skyscraper Problem, focusing on correctness, efficiency, and clarity of implementation.
 
-🧠 Problem Description
+Problem Description
 
 The grid is of size N × N.
 
